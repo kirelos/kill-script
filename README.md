@@ -1,6 +1,6 @@
 # kill-script
 
-This script will kill any process gets over than 500% of cpu percentage.
+This script will kill any process gets over than 500% of cpu percentage (You can change the percentage).
 
 # Installation Steps
 
